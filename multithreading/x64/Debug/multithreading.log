@@ -1,0 +1,5 @@
+﻿  main.cpp
+  TextAnalyzer.cpp
+C:\Users\Ema\source\repos\multithreading\TextAnalyzer.cpp(23,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  multithreading.vcxproj -> C:\Users\Ema\source\repos\multithreading\x64\Debug\multithreading.exe
